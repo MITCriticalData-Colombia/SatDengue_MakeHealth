@@ -1,4 +1,4 @@
-# SatDengue_MakeHealth
+# MakeHealth datathon [website](ttp://makehealthlatam.com/en/)
 
 ## 1. Dengue satellite data 
 Tabular data for Dengue can be downloaded in the following items
