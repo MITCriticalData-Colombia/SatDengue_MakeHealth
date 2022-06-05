@@ -14,6 +14,8 @@ Satellite features for 164 images for Medellin can be downloaded here in `pickle
 2. [Features 2 - Download](https://drive.google.com/file/d/1-LbFSHPsPac9uLlfVzkJvg4f8JobZfLJ/view?usp=sharing): Feature extraction variation based on vision transformers pretrained on Imagenet - Extracted from Sentinel 2 in Medellin between 2015-2018
 3. [Features 3 - Download](Download): Obtained by model 3
 
+For all models, find labels here: [Download](https://drive.google.com/file/d/1-RPe1OEqeqvrCedCSIXGRTN6XFYjzHfU/view?usp=sharing)
+
 ## 3. Satellite embeddings
 
 Satellite embeddings for 164 images of Medellin can be downloaded here in `pickle` and `csv` format. 
