@@ -32,11 +32,11 @@ For all models, find labels here: [Download](https://drive.google.com/drive/fold
 
 Satellite embeddings for 164 images of Medellin can be downloaded here in `pickle` and `csv` format. 
 * `pickle`: The shape for each `pickle` file is given by the structure `(164, n_features)`, where n_features represents the number of features obtained for each model.
-1. [Features 8 - Download](): Embeddings generated using the first 100 principal components in pickle format - Extracted from Sentinel 2 in Medellin between 2015-2018
+1. [Features 8 - Download](https://drive.google.com/file/d/1r0r6tZP-D0Zb069iakch7LKj3fZq-xKL/view?usp=sharing): Embeddings generated using the first 100 principal components in pickle format - Extracted from Sentinel 2 in Medellin between 2015-2018
 2. [Features 9 - Download](https://drive.google.com/file/d/1dHOCsWQ1ScaLIUETEVESvlU4QwpPjdr_/view?usp=sharing): Embeddings generated using the first 10 principal components in each band (120 features in total per image) in pickle format - Extracted from Sentinel 2 in Medellin between 2015-2018
 
 * `csv`: The shape for each `csv` file is given by the structure `(164, n_features + 1)`, where n_features represents the number of features obtained for each model and the extra column is the date of the image.
-1. [Features 8 - Download](): Embeddings generated using the first 100 principal components in csv format - Extracted from Sentinel 2 in Medellin between 2015-2018
+1. [Features 8 - Download](https://drive.google.com/file/d/1X-OaYFbhocrhRC3i3OKRj8Pvhn0nENJ_/view?usp=sharing): Embeddings generated using the first 100 principal components in csv format - Extracted from Sentinel 2 in Medellin between 2015-2018
 2. [Features 9 - Download](https://drive.google.com/file/d/1kS3uFR5GX6sUBRCaXDbwyY2SYxZDGZkm/view?usp=sharing): Embeddings generated using the first 10 principal components in each band (120 features in total per image) in csv format - Extracted from Sentinel 2 in Medellin between 2015-2018
 
 For all models, find labels here: [Download](https://drive.google.com/drive/folders/1osVDwwTHJ-lKLaNZtFee7SVB2SVQmZGE?usp=sharing)
