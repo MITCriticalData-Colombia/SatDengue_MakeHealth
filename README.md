@@ -43,4 +43,4 @@ For all models, find labels here: [Download](https://drive.google.com/drive/fold
 
 ## 5. Dates
 Array of tahes in `pickle` format of shape  `(164)`:
-1. [dates - Download](https://drive.google.com/file/d/1w-P_WqRdy1iUSnCoaRH2-azeDUQROtSr/view?usp=sharing): Dates of each satellite image in pickle format.
+1. [Dates - Download](https://drive.google.com/file/d/1w-P_WqRdy1iUSnCoaRH2-azeDUQROtSr/view?usp=sharing): Dates of each satellite image in pickle format.
