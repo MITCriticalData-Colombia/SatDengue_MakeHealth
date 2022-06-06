@@ -40,3 +40,7 @@ Satellite embeddings for 164 images of Medellin can be downloaded here in `pickl
 2. [Features 11 - Download](https://drive.google.com/file/d/1kS3uFR5GX6sUBRCaXDbwyY2SYxZDGZkm/view?usp=sharing): Embeddings generated using the first 10 principal components in each band (120 features in total per image) in csv format - Extracted from Sentinel 2 in Medellin between 2015-2018
 
 For all models, find labels here: [Download](https://drive.google.com/drive/folders/1osVDwwTHJ-lKLaNZtFee7SVB2SVQmZGE?usp=sharing)
+
+## 5. Dates
+Array of tahes in `pickle` format of shape  `(164)`:
+1. [dates - Download](https://drive.google.com/file/d/1w-P_WqRdy1iUSnCoaRH2-azeDUQROtSr/view?usp=sharing): Dates of each satellite image in pickle format.
