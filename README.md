@@ -3,7 +3,7 @@
 ## 1. Dengue satellite data 
 Tabular data for Dengue can be downloaded in the following items
 
-1. [Download](addheredata) 
+1. [Download](https://drive.google.com/drive/folders/1H5fvtqGDrAeZHqStsCqprrBhzWngmx97?usp=sharing) 
 
 
 ## 2. Satellite images feature extraction with deep learning models
