@@ -45,5 +45,5 @@ For all models, find labels here: [Download](https://drive.google.com/drive/fold
 Array of tahes in `pickle` format of shape  `(164)`:
 1. [Dates - Download](https://drive.google.com/file/d/1w-P_WqRdy1iUSnCoaRH2-azeDUQROtSr/view?usp=sharing): Dates of each satellite image in pickle format.
 
-##6. Labesl for ResNet50 and ViT Model
+## 6. Labesl for ResNet50 and ViT Model
 1. [Dataframe - Download](https://drive.google.com/file/d/1flUvGF9nF4Aj3Va3KrMAq1LQOMoNyklH/view?usp=sharing)
